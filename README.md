@@ -31,6 +31,7 @@ https://github.com/juanluethy
 
 #### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Spring](https://img.shields.io/badge/-Spring-4bf542?logo=spring&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Hybris](https://img.shields.io/badge/-Hybris-03b1fc?logo=Hybris&logoColor=white&style=flat)
