@@ -1,3 +1,13 @@
+    /$$$$$                                                                 /$$          
+   |__  $$                                                                | $$          
+      | $$ /$$   /$$  /$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$ | $$  /$$$$$$ 
+      | $$| $$  | $$ |____  $$ /$$_____/ |____  $$| $$_  $$_  $$ /$$__  $$| $$ /$$__  $$
+ /$$  | $$| $$  | $$  /$$$$$$$| $$        /$$$$$$$| $$ \ $$ \ $$| $$  \ $$| $$| $$$$$$$$
+| $$  | $$| $$  | $$ /$$__  $$| $$       /$$__  $$| $$ | $$ | $$| $$  | $$| $$| $$_____/
+|  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$ | $$ | $$|  $$$$$$/| $$|  $$$$$$$
+ \______/  \______/  \_______/ \_______/ \_______/|__/ |__/ |__/ \______/ |__/ \_______/
+
+
 
 Welcome to my GitHub profile. I’m Juacamole, a developer focused on performance, security, and exploring new technologies. I’m currently diving deep into **Rust** and building **Text User Interfaces (TUIs)**.
 
@@ -5,26 +15,23 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
 
 ### Skills & Technologies
 
-<p align="left">
+- **Languages**  
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-</p>
 
-<p align="left">
+- **Frameworks & Libraries**  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
   ![Axum](https://img.shields.io/badge/Axum-ED8936?style=for-the-badge&logo=rust&logoColor=white)  
   ![Ratatui](https://img.shields.io/badge/Ratatui-4A4A4A?style=for-the-badge&logo=rust&logoColor=white)  
-</p>
 
-<p align="left">
+- **Databases**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-</p>
 
 ---
 
