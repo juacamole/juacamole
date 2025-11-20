@@ -1,48 +1,40 @@
-<!-- About Me -->
-<h1 align="center">
-    About Me
-</h1>
-<p align="center">
-  "I am the king of the universe, and this is my code." – Terry Davis
+
+Welcome to my GitHub profile. I’m Juacamole, a developer focused on performance, security, and exploring new technologies. I’m currently diving deep into **Rust** and building **Text User Interfaces (TUIs)**.
+
+---
+
+### Skills & Technologies
+
+<p align="left">
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 </p>
 
-
-<h2 align="center">
-  Tech Stack
-</h2>
-<p align="center">
-  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="35" title="Röst"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeCrypt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Jaba"/>
+<p align="left">
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+  ![Axum](https://img.shields.io/badge/Axum-ED8936?style=for-the-badge&logo=rust&logoColor=white)  
+  ![Ratatui](https://img.shields.io/badge/Ratatui-4A4A4A?style=for-the-badge&logo=rust&logoColor=white)  
 </p>
 
-
-<h2 align="center">
-  Frameworks & Libraries
-</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" title="Spring vom 13."/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="Reaction"/>
-  <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width="35" title="Rat"/>
+<p align="left">
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 </p>
 
+---
 
-<h2 align="center">
-  Tools
-</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Doctor"/>
-</p>
+### Current Focus
 
+- Learning: Rust and its ecosystem (Axum, Ratatui)  
+- Projects: Developing terminal‑based applications using Ratatui; exploring multi‑agent systems and Large Language Models (LLMs)
 
-<h2 align="center">
-  Stats
-</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juacamole&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="150"/>
-</p>
+---
 
+### GitHub Stats
 
-<p align="center">
-  I don't want contact.
-</p>
+[![Juacamole’s GitHub Stats](https://camo.githubusercontent.com/d6d8bce9ca8c7380343d34d951cf6b9a839dbba5efb22030179f52e7ed7f3745/68747470733a2f2f67697468757374617473302e6865726f6b756c61722e636f6d2f636f6d6d69742f676974687573746174732f696d616765732f6578616d706c652e737667)](https://github.com/Juacamole)
