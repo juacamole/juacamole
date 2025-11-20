@@ -29,6 +29,7 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/><br/>
     <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width=35 title="Ratatui"/>
 </div>
+
 ### Current Focus
 
 - Learning: Rust and its ecosystem (Axum, Ratatui)  
