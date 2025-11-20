@@ -1,3 +1,4 @@
+````
     /$$$$$                                                                 /$$          
    |__  $$                                                                | $$          
       | $$ /$$   /$$  /$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$ | $$  /$$$$$$ 
@@ -6,7 +7,7 @@
 | $$  | $$| $$  | $$ /$$__  $$| $$       /$$__  $$| $$ | $$ | $$| $$  | $$| $$| $$_____/
 |  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$ | $$ | $$|  $$$$$$/| $$|  $$$$$$$
  \______/  \______/  \_______/ \_______/ \_______/|__/ |__/ |__/ \______/ |__/ \_______/
-
+````
 
 
 Welcome to my GitHub profile. I’m Juacamole, a developer focused on performance, security, and exploring new technologies. I’m currently diving deep into **Rust** and building **Text User Interfaces (TUIs)**.
