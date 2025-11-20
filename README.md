@@ -30,11 +30,6 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
     <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width=50 title="Ratatui"/>
 </div>
 
-### Current Focus
-
-- Learning: Rust and its ecosystem (Axum, Ratatui)  
-- Projects: Developing terminal‑based applications using Ratatui; exploring multi‑agent systems and Large Language Models (LLMs)
-
 ---
 
 ### GitHub Stats
