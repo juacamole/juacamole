@@ -17,24 +17,18 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
 ### Skills & Technologies
 
 - **Languages**  
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<p align="center">
+  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="35" title="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
+</p>
 
-- **Frameworks & Libraries**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-  ![Axum](https://img.shields.io/badge/Axum-ED8936?style=for-the-badge&logo=rust&logoColor=white)  
-  ![Ratatui](https://img.shields.io/badge/Ratatui-4A4A4A?style=for-the-badge&logo=rust&logoColor=white)  
-
-- **Databases**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-
----
+- **Frameworks & Libraries**
+<p align="center">
+    <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width="50" title="React"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/>
+    <img src="https://o.raw.githubusercontent.com/ratatui/ratatui/main/assets/logpng" width="50" title="Ratatui"/>
+</p>
 
 ### Current Focus
 
