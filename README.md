@@ -39,4 +39,4 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
 
 ### GitHub Stats
 
-[![Juacamole’s GitHub Stats](https://camo.githubusercontent.com/d6d8bce9ca8c7380343d34d951cf6b9a839dbba5efb22030179f52e7ed7f3745/68747470733a2f2f67697468757374617473302e6865726f6b756c61722e636f6d2f636f6d6d69742f676974687573746174732f696d616765732f6578616d706c652e737667)](https://github.com/Juacamole)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juacamole&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="150"/>
