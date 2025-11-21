@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
 ## Skills & Technologies
 
 ### Languages               Frameworks & Libraries
-<div>
+<div class="wrapper">
   <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="50" title="Rust"/>
     <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width="50" title="React"/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
@@ -25,7 +25,12 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
       <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width=50 title="Ratatui"/> <br/>
 </div>
-
+<styles>
+    .wrapper {
+        display: flex;
+        justify-content: space-evenly;
+    }
+</styles>
 ---
 
 ### GitHub Stats
