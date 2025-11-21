@@ -19,7 +19,7 @@
 ## Skills & Technologies
 
 ### Tech Stack
-<table>
+<table border="10px solid black">
   <tr>
     <td align="center">
       <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="50" title="Rust" />
