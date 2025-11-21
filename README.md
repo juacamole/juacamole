@@ -22,9 +22,7 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
     <td align="center">
       <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="50" title="Rust" />
     </td>
-      <td>
-          <div style="width=250"/>
-      </td>
+         <td width="250"/>
     <td align="center">
       <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width="50" title="React" />
     </td>
@@ -33,9 +31,7 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
     </td>
-      <td>
-          <div style="width=250"/>
-      </td>
+      <td width="250"/>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring" />
     </td>
@@ -44,9 +40,7 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
     </td>
-      <td>
-          <div style="width=250"/>
-      </td>
+      <td width="250"/>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width="50" title="Ratatui" />
     </td>
