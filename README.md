@@ -17,20 +17,32 @@ Welcome to my GitHub profile. I’m Juacamole, a developer focused on performanc
 ## Skills & Technologies
 
 ### Languages               Frameworks & Libraries
-<div class="wrapper">
-  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="50" title="Rust"/>
-    <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width="50" title="React"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-      <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width=50 title="Ratatui"/> <br/>
-</div>
-<styles>
-    .wrapper {
-        display: flex;
-        justify-content: space-evenly;
-    }
-</styles>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="50" title="Rust" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width="50" title="React" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ratatui/ratatui/main/assets/logo.png" width="50" title="Ratatui" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### GitHub Stats
