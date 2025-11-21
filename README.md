@@ -47,11 +47,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width="50" title="React" />
     </td>
   </tr>
-    <tr>
-        <td>
-            <img src="https://thispersondoesnotexist.com/" alt="blayt" width="50" height="50" title="blayt">
-        </td>
-    </tr>
 </table>
 </div>
 
