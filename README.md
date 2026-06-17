@@ -12,9 +12,3 @@
 </pre>
 
 ---
-
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=24&duration=2000&pause=1000&color=FFA580&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+Profile;Proud+NixOs+User;Vim+is+the+GOAT" alt="Typing SVG" />
-</a>
-  
----
